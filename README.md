@@ -11,7 +11,7 @@ You can use open source gravity data from https://topex.ucsd.edu/cgi-bin/get_dat
 This script is aim to get Bouger Anomaly data using parasnis density.
 
 Step :
-1. Download this code and extract.
+1. Download this code.
 2. Prepare gravity data from topex website and download.
 3. Use file Data_Format.csv template to use in processing.
 4. Run script.
